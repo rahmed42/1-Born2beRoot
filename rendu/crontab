@@ -1,0 +1,1 @@
+*/10 * * * * bash /home/rahmed/monitoring.sh | wall
